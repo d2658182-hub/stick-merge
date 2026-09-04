@@ -1,6 +1,6 @@
 /*
  * game-driver.js — neutral offline replacement for the Poki SDK (poki-sdk.js v2).
- * Used by the offline builds of "Stick Merge" (Phaser 3 + Spine, TinyDobbins) and
+ * Used by the offline builds of the Phaser 3 + Spine original (TinyDobbins) and
  * "Dreadhead Parkour" (Construct 3, gametornado).
  *
  * Implements the exact API surface both games call:
